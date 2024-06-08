@@ -1,2 +1,2 @@
-# Pizza-Sales-Report
-A Database project designed to manage and analyze pizza sales data for a restaurant chain using SQL, Postgre, Mysql .
+# Restaurant Website
+User Friendly online platform to explore restaurant menu using HTML5 and CSS for styling layout.
